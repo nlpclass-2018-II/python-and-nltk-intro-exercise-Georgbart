@@ -1,0 +1,6 @@
+- Token Lemmatization. What is the difference between token lemmatization and token stemming? Could you perform stemming by using NLTK?
+	stemming cut affixes off the word, lemaatizattion is returning the word to its promer lemma by analysis
+	yes 
+
+- Sentence tokenization, but try to use a sentence in Bahasa Indonesia. Do you notice any difference? Do you think the tokenization function could run successfully on any language?
+	
