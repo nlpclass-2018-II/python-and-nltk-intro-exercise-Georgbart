@@ -1,0 +1,4 @@
+
+Tokenized Sentence: ['saya', 'butuh', 'beberapa', 'benda', 'untuk', 'finalisasi', 'tugas']
+Word Count        : 7
+Stemmed Sentence  : saya butuh beberapa benda untuk finalisasi tuga
